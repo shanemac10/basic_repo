@@ -1,0 +1,24 @@
+cd Desktop
+mkdir gittest
+cd gittest
+git init
+touch index.html
+...styles.css
+...aboutMe.txt
+git add .
+git commit -m "..."
+nano aboutMe.txt
+git add .
+git commit -m "..."
+nano aboutMe.txt
+git add .
+git commit -m "..."
+git log
+git revert -n HEAD
+git commit -m "..."
+nano aboutMe.txt
+git add
+git commit -m "..."
+touch commands.txt
+nano commands.txt
+
